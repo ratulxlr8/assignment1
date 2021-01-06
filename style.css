@@ -88,7 +88,12 @@ section{
 .project_sec h1{
     text-align: center;
 }
-.project_sec_text{
+.project_sec_text h3{
+    font-family: Roboto;
+    font-size: 17px;
+}
+.project_sec_text p{
+    font-family: Roboto;
 }
 .btd{
     text-align: right;
