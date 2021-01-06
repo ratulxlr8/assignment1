@@ -221,3 +221,8 @@ text-align: left;
     background-color: rgba(255, 128, 99, 1);
     border-radius: 3px;
 }
+
+.icons img{
+    width: 2%;
+    padding-left: 1%;
+}
